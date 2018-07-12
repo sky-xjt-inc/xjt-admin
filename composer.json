@@ -1,0 +1,15 @@
+{
+    "name": "sky-xjt-inc/xjt-admin",
+    "description": "Expressjet-branded CMS theme",
+    "authors": [{
+        "name": "Hilkiah Makemo",
+        "email": "hilmak01@gmail.com"
+    }],
+    "require": {},
+    "bin": [],
+    "autoload": {
+        "classmap": [
+            "code/"
+        ]
+    }
+}
